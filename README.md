@@ -7,3 +7,6 @@
 
 #### Domain model for user story 1
 https://drive.google.com/open?id=11SneHdvxwWlrgLLiwnqXuPBylvmYjgfu
+
+## How to use model
+psql postgres
